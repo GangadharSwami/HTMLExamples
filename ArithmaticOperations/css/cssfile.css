@@ -1,0 +1,12 @@
+.navbar{
+		background-color: antiquewhite;
+		}	
+.navbar .nav-item:hover{
+				background-color: tan;
+		}
+.nav-item a{
+				color: black;
+		}
+.error{
+	color:red;
+}	
