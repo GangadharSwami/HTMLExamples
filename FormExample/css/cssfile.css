@@ -1,0 +1,15 @@
+body{
+	    background-color: steelblue;
+	}
+.form-back{
+	      background-color: white;
+	}
+table{
+	    background-color: white;
+}	
+tbody tr:hover{
+			background-color:gainsboro;
+		}
+		input[type=checkbox]{
+			
+		}		
